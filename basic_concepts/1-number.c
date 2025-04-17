@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    int number = 25;
+    printf("The number is: %d\n", number);
+    return 0;
+}
