@@ -1,6 +1,3 @@
-C-for-Learning
-A beginner-friendly C programming journey.
-Purpose: Accessible programming code repository for learning C from the ground up.
 C-for-Learning/
 ├── basic_concepts/
 │   ├── 0-hello-world.c
